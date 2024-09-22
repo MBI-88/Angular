@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "photo-geo3d",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
